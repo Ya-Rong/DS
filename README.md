@@ -6,7 +6,7 @@
 
 ## 📃作業區
 ### 課堂練習區：
-
+###### ． [week1](https://github.com/Ya-Rong/DS/blob/main/week1_calendar.ipynb)
 ### 作業連結區：
 
 ### 專題連結區：
